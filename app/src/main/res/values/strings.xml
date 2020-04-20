@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoInKotlin</string>
+    <string name="error">An error occurred,please try again!</string>
+    <string name="success">Success</string>
+    <string name="clicked">AplliedOnClick</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
